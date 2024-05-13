@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rawad Allaboush, a 17-year-old tech enthusiast and AI student from Morocco. I'm passionate about exploring the fascinating world of artificial intelligence and pushing the boundaries of what's possible with technology.
+I'm Rawad Allaboush, a 17-year-old tech/AI enthusiast and NLP/ML student from Morocco. I'm passionate about exploring the fascinating world of artificial intelligence and pushing the boundaries of what's possible with technology.
 
 - 👀 I'm interested in artificial intelligence, machine learning, deep learning, and their applications in various domains.
 - 🌱 I'm currently learning advanced deep learning techniques, reinforcement learning, and natural language processing.
