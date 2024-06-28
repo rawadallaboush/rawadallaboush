@@ -9,6 +9,6 @@ I'm Rawad Allaboush, a 17-year-old tech/AI enthusiast and NLP/ML student from Mo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a avid reader and love exploring new ideas and perspectives through books.
 
-  I'm certified by edX Harvard CS50 Online Program, Deeplearning.ai, and Google DeepMind Service, which has equipped me with a solid foundation in computer science and deep learning. I'm always eager to learn and contribute to the vibrant AI community.
+  I'm certified by edX Harvard CS50 Online Program, Deeplearning.ai, which has equipped me with a solid foundation in computer science and deep learning. I'm always eager to learn and contribute to the vibrant AI community.
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss anything related to AI and technology!
